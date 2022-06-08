@@ -1,0 +1,15 @@
+/home/higor/Documents/CSharp/CalculoSalarioFuncionario/CalculoSalarioFuncionario/bin/Debug/net6.0/CalculoSalarioFuncionario
+/home/higor/Documents/CSharp/CalculoSalarioFuncionario/CalculoSalarioFuncionario/bin/Debug/net6.0/CalculoSalarioFuncionario.deps.json
+/home/higor/Documents/CSharp/CalculoSalarioFuncionario/CalculoSalarioFuncionario/bin/Debug/net6.0/CalculoSalarioFuncionario.runtimeconfig.json
+/home/higor/Documents/CSharp/CalculoSalarioFuncionario/CalculoSalarioFuncionario/bin/Debug/net6.0/CalculoSalarioFuncionario.dll
+/home/higor/Documents/CSharp/CalculoSalarioFuncionario/CalculoSalarioFuncionario/bin/Debug/net6.0/CalculoSalarioFuncionario.pdb
+/home/higor/Documents/CSharp/CalculoSalarioFuncionario/CalculoSalarioFuncionario/obj/Debug/net6.0/CalculoSalarioFuncionario.csproj.AssemblyReference.cache
+/home/higor/Documents/CSharp/CalculoSalarioFuncionario/CalculoSalarioFuncionario/obj/Debug/net6.0/CalculoSalarioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/higor/Documents/CSharp/CalculoSalarioFuncionario/CalculoSalarioFuncionario/obj/Debug/net6.0/CalculoSalarioFuncionario.AssemblyInfoInputs.cache
+/home/higor/Documents/CSharp/CalculoSalarioFuncionario/CalculoSalarioFuncionario/obj/Debug/net6.0/CalculoSalarioFuncionario.AssemblyInfo.cs
+/home/higor/Documents/CSharp/CalculoSalarioFuncionario/CalculoSalarioFuncionario/obj/Debug/net6.0/CalculoSalarioFuncionario.csproj.CoreCompileInputs.cache
+/home/higor/Documents/CSharp/CalculoSalarioFuncionario/CalculoSalarioFuncionario/obj/Debug/net6.0/CalculoSalarioFuncionario.dll
+/home/higor/Documents/CSharp/CalculoSalarioFuncionario/CalculoSalarioFuncionario/obj/Debug/net6.0/refint/CalculoSalarioFuncionario.dll
+/home/higor/Documents/CSharp/CalculoSalarioFuncionario/CalculoSalarioFuncionario/obj/Debug/net6.0/CalculoSalarioFuncionario.pdb
+/home/higor/Documents/CSharp/CalculoSalarioFuncionario/CalculoSalarioFuncionario/obj/Debug/net6.0/CalculoSalarioFuncionario.genruntimeconfig.cache
+/home/higor/Documents/CSharp/CalculoSalarioFuncionario/CalculoSalarioFuncionario/obj/Debug/net6.0/ref/CalculoSalarioFuncionario.dll
